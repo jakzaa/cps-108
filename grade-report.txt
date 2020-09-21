@@ -23,3 +23,12 @@ The solution for Exercise 5 does not yet produce the correct output.
 The solution for Exercise 6 does not yet produce the correct output.
 
 Score: 4 / 6 = 66%
+
+=========================== lesson-04.ipynb ===========================
+
+The solution for Exercise 1 does not yet produce the correct output.
+There does not yet seem to be a solution for Exercise 2
+There does not yet seem to be a solution for Exercise 3
+There does not yet seem to be a solution for Exercise 4
+
+Score: 1 / 5 = 20%
