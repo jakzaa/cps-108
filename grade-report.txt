@@ -28,7 +28,6 @@ Score: 1 / 5 = 20%
 
 =========================== lesson-05.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 2
 The solution for Exercise 3 does not yet produce the correct output.
 There does not yet seem to be a solution for Exercise 4
 There does not yet seem to be a solution for Exercise 5
@@ -37,4 +36,4 @@ There does not yet seem to be a solution for Exercise 7
 There does not yet seem to be a solution for Exercise 8
 There does not yet seem to be a solution for Exercise 9
 
-Score: 1 / 9 = 11%
+Score: 2 / 9 = 22%
