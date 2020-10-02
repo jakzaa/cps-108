@@ -21,4 +21,4 @@ def react_to_click(event):
     root.quit()
 
 c.bind('<Button-1>', react_to_click)
-mainloop()
+mainloop() 
