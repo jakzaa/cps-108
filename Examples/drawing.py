@@ -5,9 +5,9 @@ c = Canvas(root, width=500, height=500)
 c.pack()
 
 # Put drawing here!
-c.create_rectangle(50, 50, 450, 100, fill='red')
+c.create_rectangle(100, 100, 100, 100, fill='#80AC31')
 c.create_rectangle(50, 50, 450, 450, fill='grey')
-c.create_oval(150, 150, 300, 400, fill='blue')
+c.create_oval(150, 150, 300, 400, fill='#7BC3D9')
 
 for y in range(50, 500, 50):
     c.create_line(0, y, 500, y)
@@ -16,7 +16,7 @@ for y in range(50, 500, 50):
 for x in range(50, 500, 50):
     c.create_line(x, 0, x, 500)
     c.create_text(x + 18, 10, text=str(x))
-
+ 
 def react_to_click(event):
     root.quit()
 
