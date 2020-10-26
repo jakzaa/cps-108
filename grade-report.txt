@@ -34,9 +34,7 @@ Score: 2 / 9 = 22%
 =========================== lesson-06.ipynb ===========================
 
 There does not yet seem to be a solution for Exercise 6
-The solution for Exercise 7 does not yet produce the correct output.
 There does not yet seem to be a solution for Exercise 8
 There does not yet seem to be a solution for Exercise 9
-The solution for Exercise 10 does not yet produce the correct output.
 
-Score: 5 / 10 = 50%
+Score: 7 / 10 = 70%
