@@ -15,46 +15,29 @@ Score: 5 / 5 = 100%
 
 =========================== lesson-05.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 8
 There does not yet seem to be a solution for Exercise 9
 
-Score: 7 / 9 = 77%
+Score: 8 / 9 = 88%
 
 =========================== lesson-06.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 6
-There does not yet seem to be a solution for Exercise 8
-There does not yet seem to be a solution for Exercise 9
-
-Score: 7 / 10 = 70%
+Score: 10 / 10 = 100%
 
 =========================== lesson-07.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 4
-There does not yet seem to be a solution for Exercise 5
-There does not yet seem to be a solution for Exercise 6
+The solution for Exercise 4 does not yet produce the correct output.
+The solution for Exercise 5 does not yet produce the correct output.
+The solution for Exercise 6 does not yet produce the correct output.
 
 Score: 3 / 6 = 50%
 
 =========================== lesson-08.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 1
-There does not yet seem to be a solution for Exercise 2
-The solution for Exercise 3 does not yet produce the correct output.
-There does not yet seem to be a solution for Exercise 4
-There does not yet seem to be a solution for Exercise 5
-
-Score: 0 / 5 = 0%
+Score: 5 / 5 = 100%
 
 =========================== lesson-09.ipynb ===========================
 
-The solution for Exercise 1 does not yet produce the correct output.
-There does not yet seem to be a solution for Exercise 2
-There does not yet seem to be a solution for Exercise 3
-There does not yet seem to be a solution for Exercise 4
-There does not yet seem to be a solution for Exercise 5
-
-Score: 0 / 5 = 0%
+Score: 5 / 5 = 100%
 
 =========================== lesson-10.ipynb ===========================
 
@@ -62,11 +45,10 @@ Score: 5 / 5 = 100%
 
 =========================== lesson-11.ipynb ===========================
 
-There does not yet seem to be a solution for Exercise 1
-There does not yet seem to be a solution for Exercise 2
-There does not yet seem to be a solution for Exercise 3
+The solution for Exercise 1 does not yet produce the correct output.
+The solution for Exercise 3 does not yet produce the correct output.
 
-Score: 0 / 3 = 0%
+Score: 1 / 3 = 33%
 
 =========================== lesson-12.ipynb ===========================
 
